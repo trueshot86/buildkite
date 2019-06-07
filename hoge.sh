@@ -1,3 +1,4 @@
 #!/bin/bash
 
-touch hage
+touch hage1
+touch hage2
