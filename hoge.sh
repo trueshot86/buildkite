@@ -2,4 +2,3 @@
 
 touch hage1
 touch hage2
-touch hage3
